@@ -1,15 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Student Developer 
+author: Rachel Stevenson 
+email: rsteve388@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  This is a portfolio of the projects IO have created in Gradu School. Projects range in date from 2015 to 2018. 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @UUDReams
+github_username:  rsteve388
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-dinky
+theme: minima
